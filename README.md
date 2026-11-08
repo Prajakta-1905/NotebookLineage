@@ -97,21 +97,21 @@ The best way to understand NotebookLineage is to see what happens when a noteboo
 
 **Every captured change becomes part of your notebook history.**
 
-![Version history - Part 1](assets/screenshots/version-history/version_history_1.png)
+![Version history - Part 1](assets/screenshots/version_history/version_history_1.png)
 
 **See how your notebook evolved.**
 
-![Version history - Part 2](assets/screenshots/version-history/version_history_2.png)
+![Version history - Part 2](assets/screenshots/version_history/version_history_2.png)
 
 **Need to inspect a particular change? Compare versions.**
 
-![Version comparison - Part 1](assets/screenshots/version-comparison/compare_version_1.png)
+![Version comparison - Part 1](assets/screenshots/compare_versions/compare_version_1.png)
 
-![Version comparison - Part 2](assets/screenshots/version-comparison/compare_version_2.png)
+![Version comparison - Part 2](assets/screenshots/compare_versions/compare_version_2.png)
 
-![Version comparison - Part 3](assets/screenshots/version-comparison/compare_version_3.png)
+![Version comparison - Part 3](assets/screenshots/compare_versions/compare_version_3.png)
 
-![Version comparison - Part 4](assets/screenshots/version-comparison/compare_version_4.png)
+![Version comparison - Part 4](assets/screenshots/compare_versions/compare_version_4.png)
 
 
 ## Built using
