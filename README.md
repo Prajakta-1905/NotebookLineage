@@ -87,25 +87,32 @@ The best way to understand NotebookLineage is to see what happens when a noteboo
 
 **It starts with a notebook.**
 
-<!-- Insert screenshot: Your retinal segmentation notebook open in VS Code -->
-
 **Save your work. NotebookLineage gets activated.**
 
-<!-- Insert screenshot: NotebookLineage activation after saving a notebook -->
+![NotebookLineage activation notification](assets/screenshots/notebooklineage-notification.png)
+
+### Access NotebookLineage directly through VS Code.
+
+![NotebookLineage context menu](assets/screenshots/notebook_contextmenu.png)
 
 **Every captured change becomes part of your notebook history.**
 
-<!-- Insert screenshot: Version history HTML report -->
+![Version history - Part 1](assets/screenshots/version-history/version_history_1.png)
 
 **See how your notebook evolved.**
 
-<!-- Insert screenshot: Consecutive-version change summaries -->
+![Version history - Part 2](assets/screenshots/version-history/version_history_2.png)
 
 **Need to inspect a particular change? Compare versions.**
 
-<!-- Insert screenshot: Detailed version comparison report -->
+![Version comparison - Part 1](assets/screenshots/version-comparison/compare_version_1.png)
 
----
+![Version comparison - Part 2](assets/screenshots/version-comparison/compare_version_2.png)
+
+![Version comparison - Part 3](assets/screenshots/version-comparison/compare_version_3.png)
+
+![Version comparison - Part 4](assets/screenshots/version-comparison/compare_version_4.png)
+
 
 ## Built using
 
